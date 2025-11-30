@@ -1,4 +1,4 @@
-# 🗳️ India 2024 General Elections — Data Analytics & Insights Dashboard
+# 🗳️ India 2024 Lok Sabha Elections — Data Analytics & Insights Dashboard
 
 <div align="center"> 
    
