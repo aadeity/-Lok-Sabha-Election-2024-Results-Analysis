@@ -1,6 +1,10 @@
 # 🗳️ India 2024 General Elections — Data Analytics & Insights Dashboard
 
-<div align="center"> *Unveiling India's electoral landscape through data-driven analysis* </div>
+<div align="center"> 
+   
+*Unveiling India's electoral landscape through data-driven analysis*
+
+</div>
 
 
 <div align="center">
