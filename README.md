@@ -426,6 +426,7 @@ Independents appear in almost every state and dominate high-stress constituency 
 
 ## 🎨 Dashboard & Visualization
 
+![WhatsApp Image 2025-11-30 at 20 48 23_4e5857c7](https://github.com/user-attachments/assets/bcc59b2d-c668-43e7-91f8-e0085dc5afca)
 
 
 ### Business Applications
